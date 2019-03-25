@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/raleigh.jpg"
 ---
 
 I'm a researcher who excels at improving performance of machine learning algorithms.
