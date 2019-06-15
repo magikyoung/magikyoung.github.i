@@ -5,7 +5,7 @@ header:
   image: "/images/raleigh.jpg"
 ---
 
-I'm a researcher who excels at improving performance of machine learning algorithms.
+I'm a computer science PhD student and researcher who excels at improving performance of machine learning algorithms (e.g. speed, scalabitily).
 
 Etc, etc, etc
 v
