@@ -1,5 +1,5 @@
 ---
-title: "Data Wrangling Project"
+title: "Data Wrangling2 Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
