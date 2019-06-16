@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling2 Project"
+title: "FALCON: A Fast Drop-In Replacement of Citation KNN for Multiple Instance Learning"
 date: 2018-01-28
 tags: [projects] #[data wrfangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Put the abstract here"
+excerpt: "Citation KNN is an important but compute-intensive algorithm formultiple instance learning (MIL). This paper presents FALCON, afast replacement of Citation KNN. FALCON accelerates CitationKNN by removing unnecessary distance calculations through twonovel optimizations,multi-level triangle inequality-based distance fil-teringandheap optimization. The careful design allows it to producethe same results as the original Citation KNN does while avoiding84–99.8% distance calculations. On seven datasets of various sizesand dimensions, FALCON consistently outperforms Citation KNNby one or two orders of magnitude, making it a promising drop-inreplacement of Citation KNN for multiple instance learning"
 mathjax: "true"
 ---
 
