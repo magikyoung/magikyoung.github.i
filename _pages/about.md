@@ -5,7 +5,6 @@ header:
   image: "/images/raleigh.jpg"
 ---
 
-I'm a computer science PhD student from North Carolina State University under the supervision of [Dr.Xipeng Shen](https://people.engr.ncsu.edu/xshen5/) Shen who excels at improving performance (e.g. speed, scalability) of machine learning algorithms.
+I'm a PhD student from [Department of Computer Science](https://www.csc.ncsu.edu) at[North Carolina State University](https://www.ncsu.edu). I'm currently working under the supervision of [Dr.Xipeng Shen](https://people.engr.ncsu.edu/xshen5/) in [PICTure Research Group](https://research.csc.ncsu.edu/picture/) 
 
-Etc, etc, etc
-v
+My research mainly focus on optimizing machine learning algorithms to achieve higher speed and scalability. My studies have covered some widely used machine learning algorihtms, e.g. _citation KNN_, _Gaussian mixture model_ and _density peak clustering_.
