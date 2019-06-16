@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling2 Project"
 date: 2018-01-28
-tags: [data wrfangling, data science, messy data]
+tags: [projects] #[data wrfangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Put the abstract here"
